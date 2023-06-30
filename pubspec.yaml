@@ -1,0 +1,138 @@
+name: pethub
+description: A new Flutter project.
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ">=2.19.0 <3.0.0"
+
+dependencies:
+  animated_splash_screen: ^1.3.0
+  animated_text_kit: ^4.2.2
+  animations: ^2.0.7
+  carousel_slider: ^4.2.1
+  cloud_firestore: ^4.4.5
+  expandable: ^5.0.1
+  firebase_auth: ^4.3.0
+  firebase_core: ^2.8.0
+  flutter:
+    sdk: flutter
+  flutter_animation_progress_bar: ^2.3.1
+  flutter_floating_bottom_bar: ^1.1.0
+  flutter_fortune_wheel: ^1.2.0
+  flutter_svg: ^2.0.3
+  get: ^4.6.5
+  get_storage: ^2.1.1
+  google_fonts: ^4.0.3
+  http: ^0.13.5
+  linear_progress_bar: ^1.1.0
+  lottie: ^2.2.0
+  page_transition: ^2.0.9
+  page_view_dot_indicator: ^2.1.0
+  path_provider: ^2.0.14
+  percent_indicator: ^4.2.3
+  permission_handler: ^10.2.0
+  provider: ^6.0.5
+  responsive_sizer: ^3.1.1
+  shared_preferences: ^2.0.18
+  shimmer: ^2.0.0
+
+dev_dependencies:
+  flutter_launcher_icons: "^0.12.0"
+  flutter_lints: ^2.0.1
+
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/launchicon.png"
+
+  flutter_lints: ^2.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/animations/maybesplash.json
+    - assets/Svgs/Reallogo.svg
+    - assets/launchicon.png
+    - assets/Backgrounds/kedionebackground.png
+    - assets/Backgrounds/kopekonebackground.png
+    - assets/Backgrounds/kopektwobackground.png
+    - assets/kediformenu.png
+    - assets/Icons/instagramlogo.png
+    - assets/Icons/googlelogo.png
+    - assets/Svgs/backbutton.svg
+    - assets/Svgs/male.svg
+    - assets/Svgs/female.svg
+    - assets/Svgs/yukaributon.svg
+    - assets/Svgs/yukaribakankedi.svg
+    - assets/Svgs/normalbakankedi.svg
+    - assets/Backgrounds/kedibutonback.png
+    - assets/Backgrounds/kopekbutonback.png
+    - assets/Svgs/HomeIcon.svg
+    - assets/Svgs/IceriklerIcon.svg
+    - assets/Svgs/CarkIcon.svg
+    - assets/Svgs/SettingIcon.svg
+    - assets/Svgs/ProfileIcon.svg
+    - assets/Svgs/AddIcon.svg
+    - assets/Svgs/LockIcon.svg
+    - assets/Svgs/SoruIsaretleriIcon.svg
+    - assets/Svgs/MamaSaatiIcon.svg
+    - assets/Svgs/OyunSaatiIcon.svg
+    - assets/Svgs/PremiumDiamondIcon.svg
+    - assets/Backgrounds/ProfilePic.png
+    - assets/Svgs/KediSayacIcon.svg
+    - assets/Svgs/KopekSayacIcon.svg
+    - assets/Svgs/ArrowForward.svg
+    - assets/Svgs/BildirimlerIcon.svg
+    - assets/Svgs/PuanlaIcon.svg
+    - assets/Svgs/SatinAlinanlariYükleIcon.svg
+    - assets/Svgs/KullanimKosullariIcon.svg
+    - assets/Svgs/GizlilikIcon.svg
+    - assets/Svgs/GeriBildirimIcon.svg
+    - assets/Svgs/AboneliklerIcon.svg
+    - assets/Svgs/SorunBildirIcon.svg
+    - assets/Svgs/HayvanBeslenmeIcon.svg
+    - assets/Svgs/EgzersizVeAktivitelerIcon.svg
+    - assets/Svgs/HayvanPiskolojisiIcon.svg
+    - assets/Svgs/HayvanHaberlerIcon.svg
+    - assets/Svgs/HayvanEtkinlikleriIcon.svg
+    - assets/Svgs/TrendOlanlarIcon.svg
+    - assets/Svgs/VeterinerTavsiyesiIcon.svg
+    - assets/Svgs/EvcilHayvanEgitimiIcon.svg
+    - assets/Svgs/BakimUrunuIcon.svg
+    - assets/Svgs/SahiplerinTecrübeleriIcon.svg
+    - assets/Svgs/CarkAmaGriIcon.svg
+    - assets/Svgs/CarkIndicatorIcon.svg
+    - assets/animations/LoadingBarOne.json
+    - assets/animations/signalAnim.json
+    - assets/animations/touchAnim.json
+    - assets/animations/addAnim.json
+    - assets/animations/catAnim.json
+    - assets/animations/dogAnim.json
+    
+    
+    
+    
+
+  fonts:
+    - family: Uturna
+      fonts:
+        - asset: assets/Fonts/UturnaTrialRegular-RpEnW.otf
+
+    - family: Vegan
+      fonts:
+        - asset: assets/Fonts/VeganStylePersonalUse-5Y58.ttf
+
+    - family: Literata
+      fonts:
+        - asset: assets/Fonts/LiterataRegular-jMG7.ttf
+
+    - family: Mightsilly
+      fonts:
+        - asset: assets/Fonts/Mightsilly400.ttf
+
+    - family: Sweaty
+      fonts:
+        - asset: assets/Fonts/Sweaty400.otf

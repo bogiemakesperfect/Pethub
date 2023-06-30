@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "528511470191",
+    "project_id": "pethome-436cb",
+    "storage_bucket": "pethome-436cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528511470191:android:ab35ab2c89169956c5db9a",
+        "android_client_info": {
+          "package_name": "com.SocioX.pethome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528511470191-a6m7o5so357pug2f0r2ponb3raou0mim.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdyQVYRqsPUJ-uoaYGyj1xwo6h9FDspwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528511470191-a6m7o5so357pug2f0r2ponb3raou0mim.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
